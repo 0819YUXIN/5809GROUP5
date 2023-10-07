@@ -7,6 +7,9 @@ Explore the effects of changes in seawater temperature rise on phosphorus cyclin
 Explore the effects that changing acidic conditions will have on phosphorus cycling in the oceans.  
 
 **Data used:**  
+For this project, we use: 
+1. ereefs https://portal.ereefs.info/  
+2. Ocean Data View https://odv.awi.de/  
 
 **The planned analysis:**   
 1、Generation of line graphs of precipitation changes in the Great Barrier Reef marine area (2012-2022)  

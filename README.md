@@ -10,6 +10,9 @@ Explore the effects that changing acidic conditions will have on phosphorus cycl
 For this project, we use: 
 1. ereefs https://portal.ereefs.info/  
 2. Ocean Data View https://odv.awi.de/
+3. National Centers for Environmental Information  https://www.ncei.noaa.gov
+4. NASA https://www.earthdata.nasa.gov
+5. Climate Data Library http://iridl.ldeo.columbia.edu
 
 
 **The planned analysis:**   

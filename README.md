@@ -19,5 +19,4 @@ For this project, we use:
 1、Generation of line graphs of precipitation changes in the Great Barrier Reef marine area (2012-2022)  
 2、Generation of line graphs of temperature change in the Great Barrier Reef sea area (2012-2022)  
 3、Generate a graph of the distribution of phosphorus（Organic form and inorganic form）concentrations in Great Barrier Reef water  
-4、Changes in other essential element （nitrogen） of the Great Barrier Reef (comparison with data related to phosphorus) 
----For one option  
+

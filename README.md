@@ -2,9 +2,10 @@
 **Impacts of Climate change on the Marine  Phosphorus Cycle**  
  
 **Goal:**   
-Nowadays, the main trend of climate change is the increase of global temperature due to the increase of carbon dioxide emissions caused by human activities, and the main manifestation in the oceans is the increase of seawater temperature and the acidification of the oceans, and therefore, our goal is mainly:  
-Explore the effects of changes in seawater temperature rise on phosphorus cycling in the ocean;  
-Explore the effects that changing acidic conditions will have on phosphorus cycling in the oceans.  
+Nowadays, the main trend of climate change is the increase of global temperature due to the increase of carbon dioxide emissions caused by human activities, and therefore, our goal is mainly found out:  
+1、Precipitation changes in the Great Barrier Reef marine area (2012-2022)  
+2、Temperature change in the Great Barrier Reef sea area (2012-2022)  
+3、The distribution of phosphorus concentrations in Great Barrier Reef water
 
 **Data used:**  
 For this project, we use: 

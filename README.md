@@ -1,7 +1,5 @@
 # 5809GROUP5
 **Impacts of Climate change on the Marine  Phosphorus Cycle**  
-
-0819YUXIN is Yuxin Qiu, ZYL045 is Zhengyi Li
  
 **Goal:**   
 Nowadays, the main trend of climate change is the increase of global temperature due to the increase of carbon dioxide emissions caused by human activities, and therefore, our goal is mainly found out:  
@@ -23,3 +21,4 @@ For this project, we use:
 2、Generation of line graphs of temperature change in the Great Barrier Reef sea area (2012-2022)  
 3、Generate a graph of the distribution of phosphorus（Organic form and inorganic form）concentrations in Great Barrier Reef water  
 
+*Contributors: 0819YUXIN is Yuxin Qiu, ZYL045 is Zhengyi Li*
